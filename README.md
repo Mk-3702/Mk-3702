@@ -6,14 +6,21 @@
 <div id="header" align="center">
   <img width="128" height="128" alt="catjardshock" src="https://github.com/user-attachments/assets/6c0291d9-1e6f-4211-992a-1772d360dd4f" />
 
-<h1> <div id="header" align="center">
+<h2> <div id="header" align="center">
   hello and welcome to my profile!
-</h1>
+</h2>
 
-<h1> DNI list :
+<h4> DNI list :
 
-  ну типа список ок да
-</h1>
+<div id="header" align="left">
+  
+  if you're under 14,
+  
+  doublefedora and pizzadebt fans,
+  
+  people with strange tendencies, BRO, IF YOU "LOVE" KIDS, I'LL THROW A NUKE AT YOU
+
+</h4>
 
 ### main fandoms:
 (maybe you'll find a new interesting fandom for yourself)
