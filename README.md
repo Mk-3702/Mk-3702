@@ -1,3 +1,5 @@
+<div id="header" align="center">
+  <img width="1725" height="691" alt="banner (2)" src="https://github.com/user-attachments/assets/3142b12e-c9b0-4c8a-812d-2a317a61af99" />
 
 <div id="header" align="center">
   <img width="128" height="128" alt="catjardwave" src="https://github.com/user-attachments/assets/f71fdec5-f817-4fd2-ad20-54958d53bd3e" />
