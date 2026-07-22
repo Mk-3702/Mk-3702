@@ -20,6 +20,7 @@
 
 <img width="1524" height="200" alt="no-blinkie" src="https://github.com/user-attachments/assets/9ab59159-35d3-4c66-9e8e-a4d1bd5cf8b5" />
 
+
 <h4> 
   $$\color{#C0C0C0}{ DNI.list : }$$
 
@@ -33,8 +34,13 @@
   
  ##### doublefedora and pizzadebt fans,
   
- ##### people with strange tendencies... BRO, IF YOU "LOVE" KIDS, I'LL THROW A NUKE AT U.
+ ##### people with strange tendencies... BRO, IF YOU "LOVE" KIDS, I'LL THROW A NUKE AT U.  <div id="header" align="right"> <img width="128" height="128" alt="rebelgun" src="https://github.com/user-attachments/assets/b647d985-1a6c-4c59-956c-af1b2f0bd702" />
+
 </h4>
+
+<div id="header" align="center">
+  <img width="1725" height="691" alt="Ai generated thorns wallpaper" src="https://github.com/user-attachments/assets/90709223-af81-4c20-8db5-83cabe12693a" />
+
 
 #### main fandoms:
 ###### (maybe you'll find a new interesting fandom for yourself)
