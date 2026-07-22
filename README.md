@@ -6,27 +6,41 @@
 <div id="header" align="center">
   <img width="128" height="128" alt="catjardshock" src="https://github.com/user-attachments/assets/6c0291d9-1e6f-4211-992a-1772d360dd4f" />
 
-<h2> <div id="header" align="center">
+<h3> <div id="header" align="center">
   hello and welcome to my profile!
+</h3>
+
+<h2>
+<div id="header" align="center">
+  $$\color{#C0C0C0}{ ✦ }$$
+  ✦
+  $$\color{#C0C0C0}{ ✦ }$$
+  
 </h2>
 
-<h4> DNI list :
+<img width="1524" height="200" alt="no-blinkie" src="https://github.com/user-attachments/assets/9ab59159-35d3-4c66-9e8e-a4d1bd5cf8b5" />
+
+<h4> 
+  $$\color{#C0C0C0}{ DNI.list : }$$
 
 <div id="header" align="left">
   
-  if you're under 14,
-  
-  doublefedora and pizzadebt fans,
-  
-  people with strange tendencies, BRO, IF YOU "LOVE" KIDS, I'LL THROW A NUKE AT YOU
+ ##### if you're under 14,
 
+ ##### pro/darkshippers,
+
+ ##### yumeshippers,
+  
+ ##### doublefedora and pizzadebt fans,
+  
+ ##### people with strange tendencies... BRO, IF YOU "LOVE" KIDS, I'LL THROW A NUKE AT U.
 </h4>
 
-### main fandoms:
-(maybe you'll find a new interesting fandom for yourself)
+#### main fandoms:
+###### (maybe you'll find a new interesting fandom for yourself)
 
-### secondary fandoms, i'm not a full member of them:
-(don't know the exact lore and/or don't know all characters, but have a little knowledge about something)
+#### secondary fandoms, i'm not a full member of them:
+###### (don't know the exact lore and/or don't know all characters, but have a little knowledge about something)
 
 ### some of my fav music :
 тут хуйню ту наделать с разным музоном
@@ -35,9 +49,10 @@
 
 
 
-
-
-
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mk-370&style=flat-square&color=800000" alt="" />
+
+
+
+
+
