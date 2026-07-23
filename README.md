@@ -30,7 +30,7 @@
 
  ##### pro/darkshippers,
   
- ##### doublefedora and pizzadebt fans,
+ ##### doublefedora, pizzadebt and pizzaburger fans,
   
  ##### people with strange tendencies... BRO, IF YOU "LOVE" KIDS, I'LL THROW A NUKE AT U.  <div id="header" align="right"> <img width="128" height="128" alt="rebelgun" src="https://github.com/user-attachments/assets/b647d985-1a6c-4c59-956c-af1b2f0bd702" />
 
@@ -41,25 +41,34 @@
 
 
 #### main fandoms:
-###### (maybe you'll find a new interesting fandom for yourself)
+###### (maybe you'll find a new interesting fandom for yourself, idk)
+
 
 <div id="header" align="left">
   
-  evade (roblox)
-
+  Evade (roblox)
   
-  metro 2033, 34, 35 (a trilogy of books)
+  Metro 2033, 34, 35 (a trilogy of books by Dmitry Glukhovsky)
   
   DMC (devil may cry)
   
-  wolfenstein (game 2009)
+  Wolfenstein (game 2009)
   
-  my bloody valentine (film 2009)
-
+  My bloody valentine (film 2009)
+  
 <div id="header" align="center">
 
 #### secondary fandoms, i'm not a full member of them:
-###### (don't know the exact lore and/or don't know all characters, but have a little knowledge about something)
+###### (don't know the exact lore and/or don't know all characters, but know something about some characters or the basic idea of the game/smth else)
+
+<div id="header" align="left">
+  BTD, TPOF, YKMET:STRADE (boyfriend to death, the price of flesh, you kill me every time: strade)
+  
+Your boyfriend
+
+fartsaken
+###### (sorry, i can't take this game seriously because of its fandom...)
+
 
 ### some of my fav music :
 тут хуйню ту наделать с разным музоном
