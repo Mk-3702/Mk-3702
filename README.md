@@ -29,8 +29,6 @@
  ##### if you're under 14,
 
  ##### pro/darkshippers,
-
- ##### yumeshippers,
   
  ##### doublefedora and pizzadebt fans,
   
@@ -44,6 +42,21 @@
 
 #### main fandoms:
 ###### (maybe you'll find a new interesting fandom for yourself)
+
+<div id="header" align="left">
+  
+  evade (roblox)
+
+  
+  metro 2033, 34, 35 (a trilogy of books)
+  
+  DMC (devil may cry)
+  
+  wolfenstein (game 2009)
+  
+  my bloody valentine (film 2009)
+
+<div id="header" align="center">
 
 #### secondary fandoms, i'm not a full member of them:
 ###### (don't know the exact lore and/or don't know all characters, but have a little knowledge about something)
