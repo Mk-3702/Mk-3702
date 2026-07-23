@@ -48,13 +48,16 @@
   
   Evade (roblox)
   
-  Metro 2033, 34, 35 (a trilogy of books by Dmitry Glukhovsky)
-  
   DMC (devil may cry)
   
   Wolfenstein (game 2009)
   
   My bloody valentine (film 2009)
+
+  COD:MW2 (Call of Duty: Modern Warfare 2)
+
+  Metro 2033, 34, 35 (a trilogy of books by Dmitry Glukhovsky)
+
   
 <div id="header" align="center">
 
@@ -62,17 +65,25 @@
 ###### (don't know the exact lore and/or don't know all characters, but know something about some characters or the basic idea of the game/smth else)
 
 <div id="header" align="left">
+  
+  
+  your boyfriend
+
+  
+  other call of duty games
+
+
   BTD, TPOF, YKMET:STRADE (boyfriend to death, the price of flesh, you kill me every time: strade)
   
-Your boyfriend
 
-fartsaken
-###### (sorry, i can't take this game seriously because of its fandom...)
+  fartsaken
+  ###### (sorry, i can't take this game seriously because of its fandom...)
 
 
+<div id="header" align="center">
+  
 ### some of my fav music :
 тут хуйню ту наделать с разным музоном
-
 
 
 
