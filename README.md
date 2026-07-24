@@ -45,7 +45,8 @@
 
 
 <div id="header" align="left">
-  
+
+  Rain world
   
   Evade (roblox)
   
@@ -63,11 +64,9 @@
 <div id="header" align="center">
 
 #### secondary fandoms, i'm not a full member of them:
-###### (don't know the exact lore and/or don't know all characters, but know something about some characters or the basic idea of the game/smth else)
+###### (i don't know the exact lore and/or don't know all characters, but i know something about the basic idea of the game/smth else)
 
 <div id="header" align="left">
-  
-  Rain world
   
   Your boyfriend
   
@@ -78,6 +77,7 @@
   VOTV (Voices of the Void)
 
   BTD, TPOF, YKMET:STRADE (boyfriend to death, the price of flesh, you kill me every time: strade)
+  ###### (and no, i don't support all the violence that happened in games like wh4t 1 w0uldnt d0 and BTD🥀)
   
 
   fartsaken
