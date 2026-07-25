@@ -42,7 +42,9 @@
 
 <div id="header" align="center">
   <img width="200" height="414" alt="kratzhll" src="https://github.com/user-attachments/assets/891e872c-4acb-4907-9e5a-d815af815a75" />
-  <img width="800" height="414" alt="Ai generated thorns wallpaper" src="https://github.com/user-attachments/assets/90709223-af81-4c20-8db5-83cabe12693a" />
+  <img width="736" height="413" alt="photo_2026-07-25_23-00-57" src="https://github.com/user-attachments/assets/b706e96c-3dee-42a9-99fd-276a466f3f14" />
+
+
 
 
 #### main fandoms:
