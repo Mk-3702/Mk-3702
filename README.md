@@ -41,7 +41,8 @@
 </h4>
 
 <div id="header" align="center">
-  <img width="1725" height="691" alt="Ai generated thorns wallpaper" src="https://github.com/user-attachments/assets/90709223-af81-4c20-8db5-83cabe12693a" />
+  <img width="200" height="414" alt="kratzhll" src="https://github.com/user-attachments/assets/891e872c-4acb-4907-9e5a-d815af815a75" />
+  <img width="800" height="414" alt="Ai generated thorns wallpaper" src="https://github.com/user-attachments/assets/90709223-af81-4c20-8db5-83cabe12693a" />
 
 
 #### main fandoms:
