@@ -28,11 +28,15 @@
   
  ##### if you're under 14,
 
- ##### pro/darkshippers,
+ ##### pro/com/darkshippers,
+
+ ##### forsaken fans.
+###### (sorry, i can't take this game seriously because of its fandom...)
   
- ##### doublefedora, pizzadebt and pizzaburger fans,
-  
- ##### people with strange tendencies... BRO, IF YOU "LOVE" KIDS, I'LL THROW A NUKE AT U.  <div id="header" align="right"> <img width="128" height="128" alt="rebelgun" src="https://github.com/user-attachments/assets/b647d985-1a6c-4c59-956c-af1b2f0bd702" />
+ ##### people with strange tendencies... BRO, IF YOU "LOVE" KIDS OR ANIMALS, I'LL THROW A NUKE AT U.  
+
+
+ <div id="header" align="right"> <img width="128" height="128" alt="rebelgun" src="https://github.com/user-attachments/assets/b647d985-1a6c-4c59-956c-af1b2f0bd702" />
 
 </h4>
 
@@ -45,8 +49,6 @@
 
 
 <div id="header" align="left">
-
-  Rain world
   
   Evade (roblox)
   
@@ -68,21 +70,32 @@
 
 <div id="header" align="left">
   
+  Rain world
+  
+  ZENO remake  
+  
   Your boyfriend
   
   Wh4t 1 w0uldnt d0
-
+  
+  PURPLE: directors cut
+  
   Other call of duty games
 
   VOTV (Voices of the Void)
 
+  S.T.A.L.K.E.R.: Call of Pripyat
+
   BTD, TPOF, YKMET:STRADE (boyfriend to death, the price of flesh, you kill me every time: strade)
-  ###### (and no, i don't support all the violence that happened in games like wh4t 1 w0uldnt d0 and BTD🥀)
+  ###### (and no, i DON'T support all the violence that happened in games like wh4t 1 w0uldnt d0 and BTD.)
   
 
-  fartsaken
-  ###### (sorry, i can't take this game seriously because of its fandom...)
+<div id="header" align="center">
+  <img width="736" height="414" alt="загруженное (3)" src="https://github.com/user-attachments/assets/ecb5f762-01b2-41c2-84df-89611380b240" />
 
+
+
+  
 
 <div id="header" align="center">
   
