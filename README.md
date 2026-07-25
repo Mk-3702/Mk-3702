@@ -49,6 +49,9 @@
 
 #### main fandoms:
 ###### (maybe you'll find a new interesting fandom for yourself, idk)
+<div id="header" align="left">
+  <img width="111" height="67" alt="tumblr_inline_pe6lc7ijO61v11djx_1280" src="https://github.com/user-attachments/assets/193dc797-45ca-407f-ba29-97e8323a75b2" />
+
 
 
 <div id="header" align="left">
@@ -70,6 +73,9 @@
 
 #### secondary fandoms, i'm not a full member of them:
 ###### (i don't know the exact lore and/or don't know all characters, but i know something about the basic idea of the game/smth else)
+<div id="header" align="right">
+  <img width="111" height="67" alt="tumblr_inline_pe6lc6PfQe1v11djx_1280" src="https://github.com/user-attachments/assets/cfce5aac-5761-4446-a421-18b3c0223845" />
+
 
 <div id="header" align="left">
   
