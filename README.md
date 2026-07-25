@@ -91,7 +91,8 @@
   
 
 <div id="header" align="center">
-  <img width="736" height="414" alt="загруженное (3)" src="https://github.com/user-attachments/assets/ecb5f762-01b2-41c2-84df-89611380b240" />
+  <img width="130" height="414" alt="загруженное (11)" src="https://github.com/user-attachments/assets/f80654f8-9aa1-4e1d-8b76-8b7e68fa677e" />
+  <img width="870" height="414" alt="загруженное (3)" src="https://github.com/user-attachments/assets/ecb5f762-01b2-41c2-84df-89611380b240" />
 
 
 
