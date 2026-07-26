@@ -22,7 +22,7 @@
 
 
 <h4> 
-  $$\color{#C0C0C0}{ DNI.list : }$$
+  $$\color{#b8bce3}{ DNI.list : }$$
 
 <div id="header" align="left">
   
