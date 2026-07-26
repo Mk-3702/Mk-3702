@@ -148,9 +148,11 @@
 
 <div id="header" align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=8a0000&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-<img width="152" height="152" alt="gothic" src="https://github.com/user-attachments/assets/4a0534b6-84ed-46d2-9c10-7e8fb15f3593" />
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&redirect=true">
+    <img width="470" height="152" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=700000&bar_color_cover=false">
+  </a> <img width="152" height="152" alt="gothic" src="https://github.com/user-attachments/assets/4a0534b6-84ed-46d2-9c10-7e8fb15f3593" />
+</p>
 
 <h4> <div id="header" align="center">
   
@@ -165,4 +167,6 @@
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mk-370&style=flat-square&color=800000" alt="" />
+
+
 
