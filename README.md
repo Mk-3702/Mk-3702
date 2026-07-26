@@ -61,10 +61,10 @@
 
 <div id="header" align="left">
 <img width="111" height="67" alt="tumblr_inline_pe6lc7ijO61v11djx_1280" src="https://github.com/user-attachments/assets/193dc797-45ca-407f-ba29-97e8323a75b2" />
-<img width="220" height="60" alt="загруженное (15) (1)" src="https://github.com/user-attachments/assets/db540a9f-4b67-4708-b088-7411634b71f5" />
-<img width="220" height="60" alt="and she is the moon (1) (1)" src="https://github.com/user-attachments/assets/59c715d7-789e-4d36-9d14-3b282fd05126" />
-<img width="220" height="60" alt="This user hates sleep (1) (1)" src="https://github.com/user-attachments/assets/706faf07-1ed8-4dd6-a48e-acb4274435a5" />
-<img width="220" height="60" alt="anti-character ai (1)" src="https://github.com/user-attachments/assets/de821889-26a8-4fd7-8751-f87bd73a166b" />
+<img width="180" height="50" alt="загруженное (15) (1)" src="https://github.com/user-attachments/assets/db540a9f-4b67-4708-b088-7411634b71f5" />
+<img width="180" height="50" alt="and she is the moon (1) (1)" src="https://github.com/user-attachments/assets/59c715d7-789e-4d36-9d14-3b282fd05126" />
+<img width="180" height="50" alt="This user hates sleep (1) (1)" src="https://github.com/user-attachments/assets/706faf07-1ed8-4dd6-a48e-acb4274435a5" />
+<img width="180" height="50" alt="anti-character ai (1)" src="https://github.com/user-attachments/assets/de821889-26a8-4fd7-8751-f87bd73a166b" />
 
 
 
