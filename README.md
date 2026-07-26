@@ -44,9 +44,18 @@
 
 <div id="header" align="center">
   <img width="160" height="350" alt="photo_2026-07-25_23-40-35" src="https://github.com/user-attachments/assets/65c8ba3b-656c-457c-a9ad-0ae895e93f20" />
-  <img width="650" height="350" alt="photo_2026-07-25_23-00-57" src="https://github.com/user-attachments/assets/b706e96c-3dee-42a9-99fd-276a466f3f14" />
+  <img width="660" height="350" alt="photo_2026-07-25_23-00-57" src="https://github.com/user-attachments/assets/b706e96c-3dee-42a9-99fd-276a466f3f14" />
 
 
+
+
+<h2>
+<div id="header" align="center">
+  $$\color{#C0C0C0}{ ✦ }$$
+  ✦
+  $$\color{#C0C0C0}{ ✦ }$$
+  
+</h2>
 
 
 
@@ -59,8 +68,8 @@
 
 
 
-
 <div id="header" align="center">
+
   
 #### main fandoms:
 ###### (maybe you'll find a new interesting fandom for yourself, idk)
@@ -116,7 +125,7 @@
   
 
 <div id="header" align="center">
-  <img width="150" height="414" alt="загруженное (11)" src="https://github.com/user-attachments/assets/f80654f8-9aa1-4e1d-8b76-8b7e68fa677e" />
+  <img width="160" height="414" alt="загруженное (11)" src="https://github.com/user-attachments/assets/f80654f8-9aa1-4e1d-8b76-8b7e68fa677e" />
   <img width="650" height="414" alt="загруженное (3)" src="https://github.com/user-attachments/assets/ecb5f762-01b2-41c2-84df-89611380b240" />
 
 
