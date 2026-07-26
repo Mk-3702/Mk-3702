@@ -145,20 +145,9 @@
 <div id="header" align="center">
 <img width="100" height="100" alt="загруженное (17)" src="https://github.com/user-attachments/assets/add4c6c8-fd24-4e8a-b2fd-300491485b3c" />
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31u7ovnqu44uqij5ssjxbuearfui&unique=true&count=1) 
-<img width="100" height="100" alt="gothic" src="https://github.com/user-attachments/assets/8ac21a17-8ee3-4fd9-9337-37704c302d67" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=990000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&redirect=true)
 
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mk-370&style=flat-square&color=800000" alt="" />
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=990000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&redirect=true)
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=990000&bar_color_cover=true">
-  </a>
-</p>
 
