@@ -12,9 +12,9 @@
 
 <h2>
 <div id="header" align="center">
-  $$\color{#C0C0C0}{ ✦ }$$
+  $$\color{#b8bce3}{ ✦ }$$
   ✦
-  $$\color{#C0C0C0}{ ✦ }$$
+  $$\color{#b8bce3}{ ✦ }$$
   
 </h2>
 
