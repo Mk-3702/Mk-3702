@@ -51,9 +51,9 @@
 
 <h2>
 <div id="header" align="center">
-  $$\color{#C0C0C0}{ ✦ }$$
+  $$\color{#b8bce3}{ ✦ }$$
   ✦
-  $$\color{#C0C0C0}{ ✦ }$$
+  $$\color{#b8bce3}{ ✦ }$$
   
 </h2>
 
@@ -134,7 +134,14 @@
 
 <div id="header" align="center">
   
-### some of my fav music :
+<h2>
+<div id="header" align="center">
+  $$\color{#b8bce3}{ ✦ }$$
+  ✦
+  $$\color{#b8bce3}{ ✦ }$$
+  
+</h2>
+
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31u7ovnqu44uqij5ssjxbuearfui&unique=true&count=1)
 
