@@ -44,7 +44,7 @@
 
 <div id="header" align="center">
   <img width="160" height="350" alt="photo_2026-07-25_23-40-35" src="https://github.com/user-attachments/assets/65c8ba3b-656c-457c-a9ad-0ae895e93f20" />
-  <img width="660" height="350" alt="photo_2026-07-25_23-00-57" src="https://github.com/user-attachments/assets/b706e96c-3dee-42a9-99fd-276a466f3f14" />
+  <img width="670" height="350" alt="photo_2026-07-25_23-00-57" src="https://github.com/user-attachments/assets/b706e96c-3dee-42a9-99fd-276a466f3f14" />
 
 
 
