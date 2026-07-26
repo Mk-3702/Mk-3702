@@ -90,10 +90,10 @@
 
 
 <div id="header"align="left">
-  <img width="220" height="60" alt="загруженное (13) (1)" src="https://github.com/user-attachments/assets/8b9ddab9-c3ed-4caf-b91d-5e2a5e05036b" />
-  <img width="220" height="60" alt="this user likes horror games (resident evil) (1)" src="https://github.com/user-attachments/assets/be6d197f-b3bc-4279-be7e-31182a370f95" />
-  <img width="220" height="60" alt="this user header (1)" src="https://github.com/user-attachments/assets/3c079aca-f830-42d6-ba62-39d057fb6bab" />
-  <img width="220" height="60" alt="загруженное (14) (1)" src="https://github.com/user-attachments/assets/167bc33a-06d5-4fb7-b2ec-7b2ff366782e" />
+  <img width="200" height="60" alt="загруженное (13) (1)" src="https://github.com/user-attachments/assets/8b9ddab9-c3ed-4caf-b91d-5e2a5e05036b" />
+  <img width="200" height="60" alt="this user likes horror games (resident evil) (1)" src="https://github.com/user-attachments/assets/be6d197f-b3bc-4279-be7e-31182a370f95" />
+  <img width="200" height="60" alt="this user header (1)" src="https://github.com/user-attachments/assets/3c079aca-f830-42d6-ba62-39d057fb6bab" />
+  <img width="200" height="60" alt="загруженное (14) (1)" src="https://github.com/user-attachments/assets/167bc33a-06d5-4fb7-b2ec-7b2ff366782e" />
   <img width="111" height="67" alt="tumblr_inline_pe6lc6PfQe1v11djx_1280" src="https://github.com/user-attachments/assets/cfce5aac-5761-4446-a421-18b3c0223845" />
   
 <div id="header" align="center">
