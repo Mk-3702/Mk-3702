@@ -11,16 +11,6 @@
 </h3>
 
 
-<h4> <div id="header" align="center">
-  
- ###### ayoo ma bradars
-
-<div id="header" align="center">
-<img width="150" height="20" alt="blinkiesCafe-Y0" src="https://github.com/user-attachments/assets/3d29a10d-fe25-4e8d-aa23-b2e26d02fa01" />
-<img width="150" height="20" alt="blinkiesCafe-0L" src="https://github.com/user-attachments/assets/1e222541-8141-4382-9723-39905f425aa4" />
-
-</h4>
-
 <h2>
 <div id="header" align="center">
   $$\color{#b8bce3}{ ✦ }$$
@@ -159,6 +149,16 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=8a0000&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 <img width="152" height="152" alt="gothic" src="https://github.com/user-attachments/assets/4a0534b6-84ed-46d2-9c10-7e8fb15f3593" />
 
+
+<h4> <div id="header" align="center">
+  
+ ###### ayoo ma bradars
+
+<div id="header" align="center">
+<img width="150" height="20" alt="blinkiesCafe-Y0" src="https://github.com/user-attachments/assets/3d29a10d-fe25-4e8d-aa23-b2e26d02fa01" />
+<img width="150" height="20" alt="blinkiesCafe-0L" src="https://github.com/user-attachments/assets/1e222541-8141-4382-9723-39905f425aa4" />
+
+</h4>
 
 
 <div id="header" align="center">
