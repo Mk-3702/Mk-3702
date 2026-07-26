@@ -10,6 +10,17 @@
   hello and welcome to my profile!
 </h3>
 
+
+<h4> <div id="header" align="center">
+  
+ ###### ayoo ma bradars
+
+<div id="header" align="center">
+<img width="150" height="20" alt="blinkiesCafe-Y0" src="https://github.com/user-attachments/assets/3d29a10d-fe25-4e8d-aa23-b2e26d02fa01" />
+<img width="150" height="20" alt="blinkiesCafe-0L" src="https://github.com/user-attachments/assets/1e222541-8141-4382-9723-39905f425aa4" />
+
+</h4>
+
 <h2>
 <div id="header" align="center">
   $$\color{#b8bce3}{ ✦ }$$
