@@ -51,9 +51,9 @@
 
 <h2>
 <div id="header" align="center">
-  $$\color{#b8bce3}{ ✦ }$$
-  ✦
-  $$\color{#b8bce3}{ ✦ }$$
+  $$\color{#b8bce3}{ ⋆ }$$
+  ★
+  $$\color{#b8bce3}{ ⋆ }$$
   
 </h2>
 
@@ -136,9 +136,9 @@
   
 <h2>
 <div id="header" align="center">
-  $$\color{#b8bce3}{ ✦ }$$
-  ✦
-  $$\color{#b8bce3}{ ✦ }$$
+  $$\color{#b8bce3}{ ₊˚⊹ }$$
+  ♪
+  $$\color{#b8bce3}{ ⊹˚₊ }$$
   
 </h2>
 
