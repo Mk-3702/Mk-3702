@@ -142,7 +142,7 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&bg_color=000000&count=3&loved=true)
 
-![My scrobbles](https://spotify-recently-played-readme.vercel.app/api?user=31u7ovnqu44uqij5ssjxbuearfui_color=000000&count=3&loved=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31u7ovnqu44uqij5ssjxbuearfui_color=000000&count=3&loved=true&unique={true|1|on|yes})
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mk-370&style=flat-square&color=800000" alt="" />
