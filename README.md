@@ -135,9 +135,6 @@
 <div id="header" align="center">
   
 ### some of my fav music :
-тут хуйню ту наделать с разным музоном
-
-
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31u7ovnqu44uqij5ssjxbuearfui&unique=true&count=1)
 
