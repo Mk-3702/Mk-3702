@@ -125,7 +125,7 @@
   
 
 <div id="header" align="center">
-  <img width="160" height="414" alt="загруженное (11)" src="https://github.com/user-attachments/assets/f80654f8-9aa1-4e1d-8b76-8b7e68fa677e" />
+  <img width="160" height="414" alt="photo_2026-07-26_21-23-36" src="https://github.com/user-attachments/assets/d96f5fb3-a056-45cd-9fdf-dd4c4cc908e6" />
   <img width="680" height="414" alt="загруженное (3)" src="https://github.com/user-attachments/assets/ecb5f762-01b2-41c2-84df-89611380b240" />
 
 
@@ -142,10 +142,12 @@
   
 </h2>
 
-<div id="header" align="center">
-<img width="100" height="100" alt="загруженное (17)" src="https://github.com/user-attachments/assets/add4c6c8-fd24-4e8a-b2fd-300491485b3c" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=990000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&redirect=true)
+<div id="header" align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u7ovnqu44uqij5ssjxbuearfui&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=8a0000&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+<img width="152" height="152" alt="gothic" src="https://github.com/user-attachments/assets/4a0534b6-84ed-46d2-9c10-7e8fb15f3593" />
+
 
 
 <div id="header" align="center">
