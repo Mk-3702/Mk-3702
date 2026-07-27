@@ -100,7 +100,7 @@
 <div id="header" align="center">
   
 #### secondary fandoms, i'm not a full member of them:
-###### (i don't know the exact lore and/or don't know all characters, but i know something about the basic idea of the game/smth else)
+###### (i don't remember the exact lore and/or don't know all characters, but i know something about the basic idea of the game/smth else)
 
 
 <div id="header" align="left">
